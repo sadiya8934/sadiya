@@ -16,12 +16,12 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "─꯭─⃝‌‌Admin Ayan bot",
+    "BOTNAME": "─꯭─⃝‌‌tor gf",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100084496188722",
+        "100066319245507",
         "61579480017209",
-        "100066319245507"
+        "100084496188722"
     ],
     "NDH": [
         "100001039692046"
@@ -222,21 +222,3 @@
         "cooldownTime": 1000000
     },
     "sing2": {
-        "YOUTUBE_API": "AIzaSyBPdGN3eMhswfSKWoaomzdlEftf3NjV1gM",
-        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
-    },
-    "god": {
-        "enable": true
-    },
-    "help2": {
-        "autoUnsend": true,
-        "delayUnsend": 300
-    },
-    "helpall": {
-        "autoUnsend": true,
-        "delayUnsend": 20
-    },
-    "vip": {
-        "cooldownTime": 1200000
-    }
-}
