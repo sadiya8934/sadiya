@@ -16,7 +16,7 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "─꯭─⃝‌‌Ayan chat bot",
+    "BOTNAME": "─꯭─⃝‌‌Admin Ayan bot",
     "PREFIX": "/",
     "ADMINBOT": [
         "100084496188722",
@@ -222,3 +222,21 @@
         "cooldownTime": 1000000
     },
     "sing2": {
+        "YOUTUBE_API": "AIzaSyBPdGN3eMhswfSKWoaomzdlEftf3NjV1gM",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "god": {
+        "enable": true
+    },
+    "help2": {
+        "autoUnsend": true,
+        "delayUnsend": 300
+    },
+    "helpall": {
+        "autoUnsend": true,
+        "delayUnsend": 20
+    },
+    "vip": {
+        "cooldownTime": 1200000
+    }
+}
